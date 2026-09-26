@@ -12,8 +12,6 @@ const Studio = () => {
                     <img src="/img/Anaheim-banner.webp" alt="Anaheim work banner" width={1980} height={1080}/>
                 </div>
             </div>
-            <div className="col"></div>
-            <div className="col"></div>
         </div>
         </>
 
